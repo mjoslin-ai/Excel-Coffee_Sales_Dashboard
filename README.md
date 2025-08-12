@@ -26,15 +26,26 @@ objective
 
 ### Step 4: Multiple IF functions
 
-
+- Create columns Coffee Type Name and Roast Type Name
+- Coffee Type Name: =IF(I2="Rob","Robusta",IF(I2="Exc","Excelsa",IF(I2="Ara","Arabica",IF(I2="Lib","Liberica",""))))
+- Roast Type Name: =IF(J2="M","Medium",IF(J2="L","Light",IF(J2="D","Dark","")))
 
 ### Step 5: Date Formatting
 
+- Order Date: dd-mmm-yyyy
+
 ### Step 6: Number Formatting
+
+- Size: 0.0 "kg"
+- Unit Price, Sales: $ US
 
 ### Step 7: Check For Duplicates
 
+Data > Data Tools > Remove Duplicates
+
 ### Step 8: Convert Range to Table
+
+
 
 ### Step 9: Pivot Tables and Pivot Charts + Formatting
 
