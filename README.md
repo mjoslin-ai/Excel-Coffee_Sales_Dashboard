@@ -62,13 +62,21 @@ objective
 ### Step 10: Insert Timeline + Formatting
 
 - Insert timeline: PivotChart Analyze > Insert Timeline
-- 
+- New timeline style (Green Timeeline Style)
 
 ### Step 11: Insert Slicers + Formatting
 
+- Insert slicer: PivotChart Analyze > Insert Slicer
+- One for Roast Type Name and Size
 
+### Step 12: Updating the Pivot Table Data Source + Formatting
 
-### Step 12: Updating the Pivot Table Data Source
+- Add Loyalty Card from customers to orders sheet
+- Loyalty Card: =XLOOKUP([@[Customer ID]],customers!$A$1:$A$1001,customers!$I$1:$I$1001,,0)
+- Add Loyalty Card slicer
+- New slicer style (Green Slicer Style)
+- Change Roast Type Name Layout to 3 columns and Size slicer to 2 columns
+- Copy total sales worksheet 
 
 ### Step 13: Building the Dashboard
 
