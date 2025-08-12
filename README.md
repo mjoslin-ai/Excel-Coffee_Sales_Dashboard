@@ -54,10 +54,19 @@ objective
 - Group by months and years in tabular form
 - Columns: Coffee Type Name
 - Values: Sum of Sales with 0 decimal places
+- Insert line chart: Insert > Charts > Line chart
+- Hide field buttons
+- Change colors for font, fill, legend, and gridlines
+- Add vertical axis (USD) and chart title (Total Sales Over Time)
 
 ### Step 10: Insert Timeline + Formatting
 
+- Insert timeline: PivotChart Analyze > Insert Timeline
+- 
+
 ### Step 11: Insert Slicers + Formatting
+
+
 
 ### Step 12: Updating the Pivot Table Data Source
 
