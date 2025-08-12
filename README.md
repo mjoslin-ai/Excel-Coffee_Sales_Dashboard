@@ -41,13 +41,19 @@ objective
 
 ### Step 7: Check For Duplicates
 
-Data > Data Tools > Remove Duplicates
+- Data > Data Tools > Remove Duplicates
 
 ### Step 8: Convert Range to Table
 
-
+- Improves managing and refreshing of pivot tables when new data is added
 
 ### Step 9: Pivot Tables and Pivot Charts + Formatting
+
+- Create TotalSales pivot table
+- Rows: Order Date
+- Group by months and years in tabular form
+- Columns: Coffee Type Name
+- Values: Sum of Sales with 0 decimal places
 
 ### Step 10: Insert Timeline + Formatting
 
