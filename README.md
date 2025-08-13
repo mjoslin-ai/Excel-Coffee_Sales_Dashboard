@@ -83,7 +83,10 @@ objective
 - Copy Country Bar Chart worksheet named Top 5 Customers
 - Modify TotalSales pivot table with Customer Name in Axis
 - Filter to show top 5 customers by Sum of Sales
+- Sort by Sum of Sales
 
 ### Step 13: Building the Dashboard
+
+-
 
 ## 
