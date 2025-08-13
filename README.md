@@ -98,6 +98,15 @@ objective
 
 ## Insights
 
+Total coffee sales from the four types (Arabica, Excelsa, Liberica, and Robusta) including all roast types, sizes, and whether or not a customer has a loyalty card, several insights can be drawn:
+
+1. Variability in Sales: All four coffee types exhibit significant fluctuations in sales over the observed period (2019–2022), with no consistent upward or downward trend for any single type.
+2. Peak Sales: Arabica and Liberica show notable peaks, with both reaching around 800 USD, suggesting occasional high demand for these types.
+3. Seasonal Patterns: There appear to be seasonal or periodic spikes, particularly noticeable in Q1 of 2020 and Q3 of 2021 for Arabica and Q1 of 2022 for Liberica, which might indicate specific market trends or events driving sales.
+4. Decline in 2022: All types show a general decline in sales toward Q3 of 2022, with Excelsa and Liberica dropping to their lowest points, possibly reflecting a market shift or reduced demand.
+5. Relative Performance: Excelsa and Robusta tend to have lower and more stable sales compared to Arabica and Liberica, which experience more pronounced highs and lows.
+
+These insights suggest that sales are influenced by external factors (e.g., seasonality or market trends) and that demand for Arabica and Liberica may be more volatile than for Excelsa and Robusta.
 
 
 
