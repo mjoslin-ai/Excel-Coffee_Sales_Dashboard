@@ -1,10 +1,10 @@
 # Excel-Coffee_Sales_Dashboard
 
-summary
+The Excel Coffee Sales Dashboard is a comprehensive tool designed to analyze and visualize coffee sales data from 2019 to 2022. It integrates customer, product, and order information to provide insights into sales trends, customer behavior, and product performance. The dashboard leverages Excel functionalities such as XLOOKUP, INDEX MATCH, pivot tables, charts, slicers, and timelines to create an interactive and visually appealing interface. Key features include tracking sales by coffee type, roast type, country, and customer loyalty, with dynamic filtering and sorting capabilities to highlight trends and top performers.
 
 ## Objective
 
-objective
+The objective of this project is to create an interactive Excel dashboard that enables users to analyze coffee sales data effectively. By combining data from customers, products, and orders, the dashboard aims to uncover insights into sales trends, identify peak sales periods, evaluate customer preferences, and assess the impact of loyalty programs. The dashboard provides a user-friendly interface with pivot tables, charts, slicers, and a timeline to facilitate data exploration and decision-making for business stakeholders.
 
 ## Analysis Steps
 
