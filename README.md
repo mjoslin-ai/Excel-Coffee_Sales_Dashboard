@@ -76,7 +76,13 @@ objective
 - Add Loyalty Card slicer
 - New slicer style (Green Slicer Style)
 - Change Roast Type Name Layout to 3 columns and Size slicer to 2 columns
-- Copy total sales worksheet 
+- Copy total sales worksheet named Country Bar Chart
+- Modify TotalSales pivot table with only Country in Axis and Sum of Sales in Values
+- Insert bar chart sorting by Sum of Sales
+- Add data labels and put units in US dollars
+- Copy Country Bar Chart worksheet named Top 5 Customers
+- Modify TotalSales pivot table with Customer Name in Axis
+- Filter to show top 5 customers by Sum of Sales
 
 ### Step 13: Building the Dashboard
 
