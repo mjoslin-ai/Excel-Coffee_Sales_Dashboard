@@ -92,6 +92,9 @@ objective
 - Add shape for dashboard title (hold ALT to snap to grid)
 - Move visuals from Total Sales, Country Bar chart, and Top 5 Customers worksheet (CTRL X and CTRL V)
 - Arrange visuals to make an elegant dashboard
+- Connect the timeline and slicers to each visual using Report Connections
+- Remove gridlines: View > uncheck gridlines
+- In File > Options > Advanced uncheck: show formula bar, show sheet tabs, and show row and column headers
 
 ## Insights
 
