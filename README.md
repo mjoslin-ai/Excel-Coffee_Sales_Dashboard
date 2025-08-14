@@ -110,7 +110,7 @@ These insights suggest that sales are influenced by external factors (e.g., seas
 
 ## Acknowledgments
 
-- [Mo Chenn]([https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc](https://www.youtube.com/@mo-chen))
+- [Mo Chenn](https://www.youtube.com/@mo-chen)
 
 
 
