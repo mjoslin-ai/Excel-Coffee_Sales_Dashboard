@@ -108,6 +108,10 @@ Total coffee sales from the four types (Arabica, Excelsa, Liberica, and Robusta)
 
 These insights suggest that sales are influenced by external factors (e.g., seasonality or market trends) and that demand for Arabica and Liberica may be more volatile than for Excelsa and Robusta.
 
+## Acknowledgments
+
+- [Mo Chenn]([https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc](https://www.youtube.com/@mo-chen))
+
 
 
 
